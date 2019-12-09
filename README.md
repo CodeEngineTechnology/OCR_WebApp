@@ -1,4 +1,4 @@
-﻿Real Time OCR Web App (React, NodeJS, Python and AWS).
+### `Real Time OCR Web App (React, NodeJS, Python and AWS)`
 
 Developed by : CodeEngine 
 https://www.youtube.com/CodeEngine
